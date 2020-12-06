@@ -17,3 +17,5 @@ target_link_libraries(aoc_3 PRIVATE aoc)
 add_executable(aoc_4 aoc_4/main.c)
 
 add_executable(aoc_5 aoc_5/main.c)
+
+add_executable(aoc_6 aoc_6/main.c)
